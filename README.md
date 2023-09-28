@@ -1,4 +1,5 @@
-
+- Dashboard.
+<img src="./images/dashboard.JPG" />
  # Name CBT
 # Author: Nancy Idiong
 # URLs:
@@ -12,12 +13,11 @@ recruiting firms as well as private and public companies, allowing
 professors, teachers and examiners to create, distribute and manage exams,
 tests, surveys and quizzes.
 
-- Dashboard.
-<img src="./images/dashboard.JPG" />
+
 - Registration
 <img src="./images/register.JPG" />
 - Login
-<img src="./images/login.JPG" />
+<img src="./images/Login.JPG" />
 - Question Set
 <img src="./images//question set.JPG" />
 - Result
