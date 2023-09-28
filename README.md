@@ -12,6 +12,21 @@ recruiting firms as well as private and public companies, allowing
 professors, teachers and examiners to create, distribute and manage exams,
 tests, surveys and quizzes.
 
+- Dashboard.
+<img src="./images/dashboard.JPG" />
+- Registration
+<img src="./images/register.JPG" />
+- Login
+<img src="./images/login.JPG" />
+- Question Set
+<img src="./images//question set.JPG" />
+- Result
+<img src="./images/result.JPG" />
+- Update.
+<img src="./images/update.JPG" />
+- Success.
+<img src="./images/success.JPG" />
+
 Compared to the traditional Pen-and-Paper Testing (PPT), CBT simplifies
 the whole process of evaluation reducing costs and improving quality and
 reliability of the examinations.
