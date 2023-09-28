@@ -1,6 +1,6 @@
 
  # Name CBT
-# Author: Nicola Asuni
+# Author: Nancy Idiong
 # URLs:
 # https://github.com/Nancyiddy/cbt
 # https://twitter.com/nancy_iddy
