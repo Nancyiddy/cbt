@@ -1,2 +1,2 @@
 # cbt
-CBT is designed as a digital platform used for the administration, delivery, and evaluation of examinations and assessments. 
+ ONLINE COMPUTER BASED TEST (CBT) SYSTEM
